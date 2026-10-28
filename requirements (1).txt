@@ -1,0 +1,7 @@
+streamlit>=1.40
+pillow
+pandas
+numpy
+requests
+reportlab
+opencv-python-headless
